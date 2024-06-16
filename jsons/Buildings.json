@@ -1,14 +1,14 @@
 [
     {
         "name": "IRRI",
-        "science": 1111,
-        "percentStatBonus": {"science": 250, "food": 100},
+        "science": 999999,
+        "percentStatBonus": {"culture": 333, "food": 333},
         "specialistSlots": {"Scientist": 3},
         "replaces": "Library",
         "uniqueTo": "Philippines",
         "maintenance": 1,
         "hurryCostModifier": 25,
-        "uniques": ["[+1111 Science] from [Farm] tiles [in this city]"],
+        "uniques": ["[+99999 Gold] from [Farm] tiles [in this city]"],
         "requiredTech": "Writing"
     }
 ]
