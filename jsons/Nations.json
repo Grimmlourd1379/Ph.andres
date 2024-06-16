@@ -4,7 +4,7 @@
 		"leaderName": "Andres Bonifacio",
 		"adjective": ["Filipino"],
 		"favoredReligion": "Christianity",
-		"startBias": ["Coast"],
+		"uniques": ["[+1111 Production] from every [Farm]"],
         "preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Greetings, Supremo Andres Bonifacio. Your great intellect and strong understanding of the Filipino plight allowed you to forge numerous successful victories against the Spaniards and the Americans.",
@@ -19,7 +19,6 @@
 		"outerColor": [139,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
-		"uniques": ["[+1111 Production] from every [Farm]"],
 		"uniques": ["[+1111 Science] from every [Farm]"],
 		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Vigan","Puerto Princesa","Davao","Aparri","Ilo-ilo","Zamboanga","Albay","Cebú",
 			"Iligan","Balanga","Tacloban","Surigao","Mórong","Bacolód","Tayabas","Tagbilaran","Daet","Catbalogan","Nueva Cáceres","Cápix","Sorsogon","Concepción","Binangonan",
