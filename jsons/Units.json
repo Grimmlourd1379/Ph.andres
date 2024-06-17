@@ -8,7 +8,8 @@
 		"strength": 2800,
 		"cost": 180,
 		"requiredTech": "Pharmaceuticals",
-		" free promotion":["Amphibious"],
+		"free promotion":["Amphibious"],
+		"uniques":[reveals the entire map], 
 		"attackSound": "shot"
 	}
 ]
