@@ -9,6 +9,7 @@
 		"cost": 180,
 		"requiredTech": "Pharmaceuticals",
 		"free promotion":["Amphibious"],
+		"uniques": "Gain [333] [Culture]",
 		"attackSound": "shot"
 	}
 ]
