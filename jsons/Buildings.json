@@ -8,7 +8,7 @@
         "uniqueTo": "Philippines",
         "maintenance": 1,
         "hurryCostModifier": 25,
-        "uniques": ["[+99999 Gold] from [Farm] tiles [in this city]"],
+        "uniques": ["[+99999 Gold] from [Road] tiles [in this city]"],
         "requiredTech": "Writing"
     }
 ]
