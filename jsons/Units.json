@@ -9,7 +9,6 @@
 		"cost": 180,
 		"requiredTech": "Pharmaceuticals",
 		"free promotion":["Amphibious"],
-		"uniques":"[3] Free Social Policies", 
 		"attackSound": "shot"
 	}
 ]
