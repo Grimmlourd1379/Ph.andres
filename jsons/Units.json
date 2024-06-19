@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"replaces": "Warrior",
 		"uniqueTo":"Philippines",
-		"movement": 666,
+		"movement": 333,
 		"strength": 2800,
 		"cost": 180,
 		"free promotion":["Amphibious"],
