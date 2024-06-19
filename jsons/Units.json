@@ -1,13 +1,12 @@
 [
 	{
 		"name": "Supremo",
-		"unitType": "Gunpowder",
-		"replaces": "Marine",
+		"unitType": "Sword",
+		"replaces": "Warrior",
 		"uniqueTo":"Philippines",
-		"movement": 333,
+		"movement": 999,
 		"strength": 2800,
 		"cost": 180,
-		"requiredTech": "Pharmaceuticals",
 		"free promotion":["Amphibious"],
 		"uniques": ["Empire enters a [12]-turn Golden Age"],
 		"attackSound": "shot"
