@@ -8,8 +8,8 @@
 		"strength": 2800,
 		"cost": 180,
 		"requiredTech": "Pharmaceuticals",
-		"free promotion":["Amphibious"],
-		"uniques": ["Empire enters a [12]-turn Golden Age"],
+		"promotions": ["Amphibious"],
+		"uniques": ["Empire enters a [12]-turn Golden Age","Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 		"attackSound": "shot"
 	}
 ]
