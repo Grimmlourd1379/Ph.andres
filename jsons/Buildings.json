@@ -10,7 +10,7 @@
         "uniqueTo": "Philippines",
         "maintenance": 1,
         "hurryCostModifier": 25,
-        "uniques": ["[+9999 Faith] from every [Road] tiles [in this city]"],
+        "uniques": ["[+999 Faith] from every [Road] tiles [in this city]"],
         "requiredTech": "Writing"
     }
 ]
