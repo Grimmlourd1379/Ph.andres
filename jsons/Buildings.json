@@ -1,13 +1,15 @@
 [
     {
         "name": "IRRI",
+        "Science": 999999
+        "Gold": 999999
         "percentStatBonus": {"culture": 9999, "food": 9999, "faith": 9999, "gold": 9999},
         "specialistSlots": {"Artist": 3333},
         "replaces": "Library",
         "uniqueTo": "Philippines",
         "maintenance": 1,
         "hurryCostModifier": 25,
-        "uniques": ["[+9999 Faith] from every [Worker]"],
+        "uniques": ["[+9999 Faith] from every [Road] tiles [in this city]"],
         "requiredTech": "Writing"
     }
 ]
