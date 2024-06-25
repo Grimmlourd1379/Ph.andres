@@ -9,7 +9,7 @@
 		"cost": 180,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["Empire enters a [12]-turn Golden Age","Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"uniques": ["Empire enters a [12]-turn Golden Age","Ignore terrain cost"],
 		"attackSound": "shot"
 	}
 ]
